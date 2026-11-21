@@ -1,0 +1,7 @@
+
+TRANSACTION #1 | DATE: 2026-11-21
+notepad | Quantity: 1 | Price: P25.00 | Subtotal: P25.00
+Total: P25.00
+Payment: P25.00
+Change: P0.00
+============================================
